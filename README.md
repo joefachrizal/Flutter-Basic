@@ -1,4 +1,4 @@
-# myappflutter
+# flutter web App
 
 A new Flutter application.
 
