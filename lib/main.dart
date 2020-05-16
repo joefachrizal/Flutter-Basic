@@ -6,7 +6,11 @@ void main() {
     home: Material(
       color: Colors.lightBlueAccent,
       child: Center(
-        child: Text("Hello", textDirection: TextDirection.ltr),
+        child: Text(
+          "Hello",
+          textDirection: TextDirection.ltr,
+          style: TextStyle(color: Colors.white, fontSize: 40.0),
+        ),
       ),
     ),
   ));
